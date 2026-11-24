@@ -1,0 +1,11 @@
+customer_id,customer_name,segment
+C001,Alpha Mart,Retail
+C002,Beta Corp,Enterprise
+C003,Gamma Store,Retail
+C004,Delta Ltd,SMB
+C005,Epsilon Cafe,SMB
+C006,Zeta Fashion,Retail
+C007,Eta Motors,Enterprise
+C008,Theta Tech,Enterprise
+C009,Iota Books,Retail
+C010,Kappa Foods,SMB
